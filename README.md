@@ -10,3 +10,9 @@ Capturing of LoRa Signal
 📌 SDR waveguru kit to Analyze the signal and Evaluation process go through the GNU radio Software.
 
 📌 Inputs are given in the LoRa32 Module and Capturing of Signal is done through SDR and GNU radio.
+
+DESIGN(S) (HARDWARE / SOFTWARE ARCHITECTURE) 
+
+Transmitting Part (Tx)
+
+Receiving Part (Rx)
